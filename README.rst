@@ -6,16 +6,17 @@ SQLAlchemy Tools
 .. image:: https://img.shields.io/pypi/v/sqlalchemy_tools.svg
         :target: https://pypi.python.org/pypi/sqlalchemy_tools
 
-.. image:: https://img.shields.io/travis/kartstig/sqlalchemy_tools.svg
-        :target: https://travis-ci.com/kartstig/sqlalchemy_tools
+.. image:: https://tc.spin-flip.com/app/rest/builds/buildType:id:SqlalchemyTools_TestPython38/statusIcon.svg
+        :target: https://tc.spin-flip.com/buildConfiguration/SqlalchemyTools_TestPython38
 
-.. image:: https://readthedocs.org/projects/sqlalchemy-tools/badge/?version=latest
-        :target: https://sqlalchemy-tools.readthedocs.io/en/latest/?version=latest
+.. image:: https://sqlalchemy-tools.spin-flip.com/badge/?version=latest
+        :target: https://sqlalchemy-tools.spin-flip.com/en/latest/?version=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/kartstig/sqlalchemy_tools/shield.svg
-     :target: https://pyup.io/repos/github/kartstig/sqlalchemy_tools/
-     :alt: Updates
+.. image:: https://codecov.io/gh/Kartstig/sqlalchemy_tools/branch/main/graph/badge.svg?token=j2wU83RPlN
+        :target: https://codecov.io/gh/Kartstig/sqlalchemy_tools
+        :alt: Codecov
+
 
 
 
