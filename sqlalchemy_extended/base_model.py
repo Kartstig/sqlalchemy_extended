@@ -11,7 +11,7 @@ class BaseModel:
     .. code-block:: python
 
         from sqlalchemy.ext.declarative import declarative_base
-        from sqlalchemy_ext import BaseModel
+        from sqlalchemy_extended import BaseModel
 
         class MyBase(BaseModel)
             pass

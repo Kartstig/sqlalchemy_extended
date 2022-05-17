@@ -1,4 +1,4 @@
-Welcome to sqlalchemy_ext's documentation!
+Welcome to sqlalchemy_extended's documentation!
 ============================================
 
 .. toctree::

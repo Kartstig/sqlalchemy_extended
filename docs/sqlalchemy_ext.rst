@@ -7,7 +7,7 @@ Submodules
 sqlalchemy\_ext.base\_model module
 ----------------------------------
 
-.. automodule:: sqlalchemy_ext.base_model
+.. automodule:: sqlalchemy_extended.base_model
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ sqlalchemy\_ext.base\_model module
 Module contents
 ---------------
 
-.. automodule:: sqlalchemy_ext
+.. automodule:: sqlalchemy_extended
    :members:
    :undoc-members:
    :show-inheritance:

@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sqlalchemy_ext'
+project = 'sqlalchemy_extended'
 copyright = '2022, Herman Singh'
 author = 'Herman Singh'
 
