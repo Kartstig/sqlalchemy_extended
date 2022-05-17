@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Tests for `sqlalchemy_tools` package."""
+"""Tests for `sqlalchemy_ext` package."""
 
 import pytest
 from datetime import datetime
@@ -9,7 +9,7 @@ from random import randint, random
 from sqlalchemy import Column, DateTime, Float, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
-from sqlalchemy_tools import BaseModel
+from sqlalchemy_ext import BaseModel
 
 fake = Faker()
 

@@ -1,7 +1,3 @@
-"""
-    sqlalchemy_tools is meant to add some conveniences to the Base SQLAlchemy class. For more information
-    please see [SQLAlchemy](https://docs.sqlalchemy.org/) for more information.
-"""
 from datetime import date, datetime
 from typing import Any, Dict, Iterable
 
@@ -15,7 +11,7 @@ class BaseModel:
     .. code-block:: python
 
         from sqlalchemy.ext.declarative import declarative_base
-        from sqlalchemy_tools import BaseModel
+        from sqlalchemy_ext import BaseModel
 
         class MyBase(BaseModel)
             pass

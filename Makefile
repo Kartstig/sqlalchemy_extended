@@ -48,9 +48,9 @@ clean-test: ## remove test and coverage artifacts
 	rm -fr .pytest_cache
 
 lint/flake8: ## check style with flake8
-	flake8 sqlalchemy_tools tests
+	flake8 sqlalchemy_ext tests
 lint/black: ## check style with black
-	black --check sqlalchemy_tools tests
+	black --check sqlalchemy_ext tests
 
 lint: lint/flake8 lint/black ## check style
 
@@ -61,15 +61,15 @@ test-all: ## run tests on every Python version with tox
 	tox
 
 coverage: ## check code coverage quickly with the default Python
-	coverage run --source sqlalchemy_tools -m pytest
+	coverage run --source sqlalchemy_ext -m pytest
 	coverage report -m
 	coverage html
 	$(BROWSER) htmlcov/index.html
 
 docs: ## generate Sphinx HTML documentation, including API docs
-	rm -f docs/sqlalchemy_tools.rst
+	rm -f docs/sqlalchemy_ext.rst
 	rm -f docs/modules.rst
-	sphinx-apidoc -o docs/ sqlalchemy_tools
+	sphinx-apidoc -o docs/ sqlalchemy_ext
 	$(MAKE) -C docs clean
 	$(MAKE) -C docs html
 	$(BROWSER) docs/_build/html/index.html

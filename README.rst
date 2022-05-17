@@ -1,10 +1,10 @@
 ================
-SQLAlchemy Tools
+sqlalchemy_ext
 ================
 
 
-.. image:: https://img.shields.io/pypi/v/sqlalchemy_tools.svg
-        :target: https://pypi.python.org/pypi/sqlalchemy_tools
+.. image:: https://img.shields.io/pypi/v/sqlalchemy_ext.svg
+        :target: https://pypi.python.org/pypi/sqlalchemy_ext
 
 .. image:: https://tc.spin-flip.com/app/rest/builds/buildType:id:SqlalchemyTools_TestPython38/statusIcon.svg
         :target: https://tc.spin-flip.com/buildConfiguration/SqlalchemyTools_TestPython38
@@ -13,8 +13,8 @@ SQLAlchemy Tools
         :target: https://sqlalchemy-tools.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://codecov.io/gh/Kartstig/sqlalchemy_tools/branch/main/graph/badge.svg?token=j2wU83RPlN
-        :target: https://codecov.io/gh/Kartstig/sqlalchemy_tools
+.. image:: https://codecov.io/gh/Kartstig/sqlalchemy_ext/branch/main/graph/badge.svg?token=j2wU83RPlN
+        :target: https://codecov.io/gh/Kartstig/sqlalchemy_ext
         :alt: Codecov
 
 

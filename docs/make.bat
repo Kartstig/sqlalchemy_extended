@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=sqlalchemy_tools
+set SPHINXPROJ=sqlalchemy_ext
 
 if "%1" == "" goto help
 

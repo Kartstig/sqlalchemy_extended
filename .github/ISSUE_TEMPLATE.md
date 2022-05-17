@@ -1,6 +1,6 @@
-* SQLAlchemy Tools version:
-* Python version:
-* Operating System:
+-   sqlalchemy_ext version:
+-   Python version:
+-   Operating System:
 
 ### Description
 

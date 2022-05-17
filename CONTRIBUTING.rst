@@ -15,7 +15,7 @@ Types of Contributions
 Report Bugs
 ~~~~~~~~~~~
 
-Report bugs at https://github.com/kartstig/sqlalchemy_tools/issues.
+Report bugs at https://github.com/kartstig/sqlalchemy_ext/issues.
 
 If you are reporting a bug, please include:
 
@@ -38,14 +38,14 @@ and "help wanted" is open to whoever wants to implement it.
 Write Documentation
 ~~~~~~~~~~~~~~~~~~~
 
-SQLAlchemy Tools could always use more documentation, whether as part of the
-official SQLAlchemy Tools docs, in docstrings, or even on the web in blog posts,
+sqlalchemy_ext could always use more documentation, whether as part of the
+official sqlalchemy_ext docs, in docstrings, or even on the web in blog posts,
 articles, and such.
 
 Submit Feedback
 ~~~~~~~~~~~~~~~
 
-The best way to send feedback is to file an issue at https://github.com/kartstig/sqlalchemy_tools/issues.
+The best way to send feedback is to file an issue at https://github.com/kartstig/sqlalchemy_ext/issues.
 
 If you are proposing a feature:
 
@@ -57,17 +57,17 @@ If you are proposing a feature:
 Get Started!
 ------------
 
-Ready to contribute? Here's how to set up `sqlalchemy_tools` for local development.
+Ready to contribute? Here's how to set up `sqlalchemy_ext` for local development.
 
-1. Fork the `sqlalchemy_tools` repo on GitHub.
+1. Fork the `sqlalchemy_ext` repo on GitHub.
 2. Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/sqlalchemy_tools.git
+    $ git clone git@github.com:your_name_here/sqlalchemy_ext.git
 
 3. Install your local copy into a virtualenv. Assuming you have virtualenvwrapper installed, this is how you set up your fork for local development::
 
-    $ mkvirtualenv sqlalchemy_tools
-    $ cd sqlalchemy_tools/
+    $ mkvirtualenv sqlalchemy_ext
+    $ cd sqlalchemy_ext/
     $ python setup.py develop
 
 4. Create a branch for local development::
@@ -79,7 +79,7 @@ Ready to contribute? Here's how to set up `sqlalchemy_tools` for local developme
 5. When you're done making changes, check that your changes pass flake8 and the
    tests, including testing other Python versions with tox::
 
-    $ flake8 sqlalchemy_tools tests
+    $ flake8 sqlalchemy_ext tests
     $ python setup.py test or pytest
     $ tox
 
@@ -103,7 +103,7 @@ Before you submit a pull request, check that it meets these guidelines:
    your new functionality into a function with a docstring, and add the
    feature to the list in README.rst.
 3. The pull request should work for Python 3.5, 3.6, 3.7 and 3.8, and for PyPy. Check
-   https://travis-ci.com/kartstig/sqlalchemy_tools/pull_requests
+   https://travis-ci.com/kartstig/sqlalchemy_ext/pull_requests
    and make sure that the tests pass for all supported Python versions.
 
 Tips
@@ -111,7 +111,7 @@ Tips
 
 To run a subset of tests::
 
-$ pytest tests.test_sqlalchemy_tools
+$ pytest tests.test_sqlalchemy_ext
 
 
 Deploying
