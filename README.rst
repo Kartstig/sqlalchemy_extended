@@ -9,8 +9,8 @@ SQLAlchemy Tools
 .. image:: https://tc.spin-flip.com/app/rest/builds/buildType:id:SqlalchemyTools_TestPython38/statusIcon.svg
         :target: https://tc.spin-flip.com/buildConfiguration/SqlalchemyTools_TestPython38
 
-.. image:: https://sqlalchemy-tools.spin-flip.com/badge/?version=latest
-        :target: https://sqlalchemy-tools.spin-flip.com/en/latest/?version=latest
+.. image:: https://readthedocs.org/projects/sqlalchemy-tools/badge/?version=latest
+        :target: https://sqlalchemy-tools.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 .. image:: https://codecov.io/gh/Kartstig/sqlalchemy_tools/branch/main/graph/badge.svg?token=j2wU83RPlN
