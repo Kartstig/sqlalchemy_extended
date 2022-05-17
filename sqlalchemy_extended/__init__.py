@@ -1,5 +1,5 @@
 """
-    sqlalchemy_ext is meant to add some conveniences
+    sqlalchemy_extended is meant to add some conveniences
     to the Base SQLAlchemy classes. For more information
     please see [SQLAlchemy](https://docs.sqlalchemy.org/)
     for more information.

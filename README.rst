@@ -1,20 +1,20 @@
 ================
-sqlalchemy_ext
+sqlalchemy_extended
 ================
 
 
-.. image:: https://img.shields.io/pypi/v/sqlalchemy_ext.svg
-        :target: https://pypi.python.org/pypi/sqlalchemy_ext
+.. image:: https://img.shields.io/pypi/v/sqlalchemy_extended.svg
+        :target: https://pypi.python.org/pypi/sqlalchemy_extended
 
 .. image:: https://tc.spin-flip.com/app/rest/builds/buildType:id:SqlalchemyTools_TestPython38/statusIcon.svg
         :target: https://tc.spin-flip.com/buildConfiguration/SqlalchemyTools_TestPython38
 
-.. image:: https://readthedocs.org/projects/sqlalchemy-ext/badge/?version=latest
-        :target: https://sqlalchemy-ext.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/sqlalchemy-extended/badge/?version=latest
+        :target: https://sqlalchemy-extended.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://codecov.io/gh/Kartstig/sqlalchemy_ext/branch/main/graph/badge.svg?token=j2wU83RPlN
-        :target: https://codecov.io/gh/Kartstig/sqlalchemy_ext
+.. image:: https://codecov.io/gh/Kartstig/sqlalchemy_extended/branch/main/graph/badge.svg?token=j2wU83RPlN
+        :target: https://codecov.io/gh/Kartstig/sqlalchemy_extended
         :alt: Codecov
 
 

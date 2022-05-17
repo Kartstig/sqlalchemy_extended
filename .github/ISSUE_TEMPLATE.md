@@ -1,4 +1,4 @@
--   sqlalchemy_ext version:
+-   sqlalchemy_extended version:
 -   Python version:
 -   Operating System:
 
