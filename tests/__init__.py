@@ -1,1 +1,1 @@
-"""Unit test package for sqlalchemy_tools."""
+"""Unit test package for sqlalchemy_ext."""

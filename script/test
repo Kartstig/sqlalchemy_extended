@@ -7,13 +7,13 @@ then
   ENV=test venv/bin/python -m pytest \
     --capture=sys \
     --capture=fd \
-    --cov=sqlalchemy_tools/ \
+    --cov=sqlalchemy_ext/ \
     -vv
 else
   ENV=test venv/bin/python -m pytest \
     --capture=sys \
     --capture=fd \
-    --cov=sqlalchemy_tools/ \
+    --cov=sqlalchemy_ext/ \
     -vv \
     -k $1
 fi

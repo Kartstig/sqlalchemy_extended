@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install SQLAlchemy Tools, run this command in your terminal:
+To install sqlalchemy_ext, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install sqlalchemy_tools
+    $ pip install sqlalchemy_ext
 
-This is the preferred method to install SQLAlchemy Tools, as it will always install the most recent stable release.
+This is the preferred method to install sqlalchemy_ext, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -26,19 +26,19 @@ you through the process.
 From sources
 ------------
 
-The sources for SQLAlchemy Tools can be downloaded from the `Github repo`_.
+The sources for sqlalchemy_ext can be downloaded from the `Github repo`_.
 
 You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/kartstig/sqlalchemy_tools
+    $ git clone git://github.com/kartstig/sqlalchemy_ext
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl -OJL https://github.com/kartstig/sqlalchemy_tools/tarball/master
+    $ curl -OJL https://github.com/kartstig/sqlalchemy_ext/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/kartstig/sqlalchemy_tools
-.. _tarball: https://github.com/kartstig/sqlalchemy_tools/tarball/master
+.. _Github repo: https://github.com/kartstig/sqlalchemy_ext
+.. _tarball: https://github.com/kartstig/sqlalchemy_ext/tarball/master
