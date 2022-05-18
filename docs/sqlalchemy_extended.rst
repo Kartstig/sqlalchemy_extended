@@ -1,11 +1,11 @@
-sqlalchemy\_ext package
-=======================
+sqlalchemy\_extended package
+============================
 
 Submodules
 ----------
 
-sqlalchemy\_ext.base\_model module
-----------------------------------
+sqlalchemy\_extended.base\_model module
+---------------------------------------
 
 .. automodule:: sqlalchemy_extended.base_model
    :members:

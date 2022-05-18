@@ -1,5 +1,5 @@
 Welcome to sqlalchemy_extended's documentation!
-============================================
+===============================================
 
 .. toctree::
    :maxdepth: 2

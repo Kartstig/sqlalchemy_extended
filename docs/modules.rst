@@ -1,5 +1,5 @@
 sqlalchemy_extended
-==============
+===================
 
 .. toctree::
    :maxdepth: 4

@@ -1,6 +1,6 @@
-================
+===================
 sqlalchemy_extended
-================
+===================
 
 
 .. image:: https://img.shields.io/pypi/v/sqlalchemy_extended.svg
