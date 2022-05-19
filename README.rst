@@ -6,8 +6,8 @@ sqlalchemy_extended
 .. image:: https://img.shields.io/pypi/v/sqlalchemy_extended.svg
         :target: https://pypi.python.org/pypi/sqlalchemy_extended
 
-.. image:: https://tc.spin-flip.com/app/rest/builds/buildType:id:SqlalchemyTools_TestPython38/statusIcon.svg
-        :target: https://tc.spin-flip.com/buildConfiguration/SqlalchemyTools_TestPython38
+.. image:: https://tc.spin-flip.com/app/rest/builds/buildType:id:SqlalchemyExtended_TestPython38/statusIcon.svg
+        :target: https://tc.spin-flip.com/project/SqlalchemyExtended?mode=trends
 
 .. image:: https://readthedocs.org/projects/sqlalchemy-extended/badge/?version=latest
         :target: https://sqlalchemy-extended.readthedocs.io/en/latest/?badge=latest
