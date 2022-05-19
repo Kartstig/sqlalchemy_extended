@@ -7,6 +7,6 @@
 
 __author__ = """Herman Singh"""
 __email__ = "kartstig@gmail.com"
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from .base_model import BaseModel
