@@ -24,7 +24,7 @@ Extensions to SQLALchemy
 
 
 * Free software: MIT license
-* Documentation: https://sqlalchemy-tools.spin-flip.com.
+* Documentation: https://sqlalchemy-extended.readthedocs.io/en/latest/.
 
 
 Features
