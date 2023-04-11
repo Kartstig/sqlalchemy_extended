@@ -36,6 +36,13 @@ Features
         * update function
         * columns function
 
+Sponsorship
+-----------
+
+Put your logo here! `Become a sponsor`_ and support this project!
+
+.. _Become a sponsor: https://github.com/sponsors/Kartstig
+
 Credits
 -------
 
